@@ -6,7 +6,7 @@ Add text to image like a meme format
 This program uses
   * ![](https://img.shields.io/pypi/pyversions/Django.svg)
   * ![](http://flask.pocoo.org/static/badges/flask-project-s.png)
-  * `[gevent](https://github.com/gevent/gevent)`
+  * [gevent](https://github.com/gevent/gevent)
   * `click`
   * `pillow`
 
