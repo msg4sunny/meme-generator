@@ -4,8 +4,8 @@ Add text to image like a meme format
 ## Dependencies
 ![](https://img.shields.io/hackage-deps/v/lens.svg)
 This program uses
-  * `[https://img.shields.io/pypi/pyversions/Django.svg](https://www.python.org/download/releases/3.0/) []()`
-  * `[http://flask.pocoo.org/static/badges/flask-project-s.png]`
+  * `[https://img.shields.io/pypi/pyversions/Django.svg](https://www.python.org/download/releases/3.0/)`
+  * `[http://flask.pocoo.org/static/badges/flask-project-s.png]()`
   * `[gevent](https://github.com/gevent/gevent)`
   * `click`
   * `pillow`
